@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/TusharRajput7906/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/TusharRajput7906/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -63,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
