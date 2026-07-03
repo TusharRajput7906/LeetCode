@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
