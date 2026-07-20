@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharRajput7906/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharRajput7906/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TusharRajput7906/LeetCode/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/TusharRajput7906/LeetCode/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
