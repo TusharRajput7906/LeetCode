@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TusharRajput7906/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
