@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/TusharRajput7906/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/TusharRajput7906/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TusharRajput7906/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/TusharRajput7906/LeetCode/tree/master/1148-article-views-i) |
