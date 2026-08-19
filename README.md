@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/TusharRajput7906/LeetCode/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
