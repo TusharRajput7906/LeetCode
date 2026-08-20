@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/TusharRajput7906/LeetCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TusharRajput7906/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TusharRajput7906/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/TusharRajput7906/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharRajput7906/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
