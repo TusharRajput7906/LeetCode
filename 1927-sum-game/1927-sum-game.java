@@ -28,15 +28,12 @@ class Solution {
                 rightSum += c - '0';
             }
         }
-
-        // Odd number of '?' -> Alice gets the extra move
         if ((leftQ + rightQ) % 2 == 1) {
             return true;
         }
 
         int diff = leftSum - rightSum;
-
-        // Required difference that Bob can compensate
+        
         int required = (rightQ - leftQ) / 2 * 9;
 
         return diff != required;
