@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/TusharRajput7906/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/TusharRajput7906/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TusharRajput7906/LeetCode/tree/master/0595-big-countries) |
+| [1045-customers-who-bought-all-products](https://github.com/TusharRajput7906/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/TusharRajput7906/LeetCode/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/TusharRajput7906/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/TusharRajput7906/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
