@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/TusharRajput7906/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/TusharRajput7906/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/TusharRajput7906/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/TusharRajput7906/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/TusharRajput7906/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TusharRajput7906/LeetCode/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/TusharRajput7906/LeetCode/tree/master/1045-customers-who-bought-all-products) |
