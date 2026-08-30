@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TusharRajput7906/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1927-sum-game](https://github.com/TusharRajput7906/LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |
