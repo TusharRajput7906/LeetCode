@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharRajput7906/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/TusharRajput7906/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TusharRajput7906/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0344-reverse-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/TusharRajput7906/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharRajput7906/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0213-house-robber-ii) |
