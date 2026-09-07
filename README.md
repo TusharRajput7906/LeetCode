@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TusharRajput7906/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TusharRajput7906/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
