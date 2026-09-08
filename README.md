@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/TusharRajput7906/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/TusharRajput7906/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/TusharRajput7906/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/TusharRajput7906/LeetCode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/TusharRajput7906/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TusharRajput7906/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
