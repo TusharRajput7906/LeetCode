@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/TusharRajput7906/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TusharRajput7906/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/TusharRajput7906/LeetCode/tree/master/1927-sum-game) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
