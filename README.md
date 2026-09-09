@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TusharRajput7906/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TusharRajput7906/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Boyer–Moore Majority Vote Algorithm
