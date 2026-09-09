@@ -1,7 +1,17 @@
 class Solution {
     public int leng(int n){
-        String str=Integer.toString(n);
-        return str.length();
+        // String str=Integer.toString(n);
+        // return str.length();
+        int c=0;
+        if(n<=0) {
+            c=1;
+            n=Math.abs(n);
+        }
+        while(n>0){
+            c++;
+            n/=10;
+        }
+        return c;
     }
     public int[] findColumnWidth(int[][] grid) {
         int n=grid.length;
