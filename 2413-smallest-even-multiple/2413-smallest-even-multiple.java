@@ -3,7 +3,7 @@ class Solution {
         int ans=n;
         while(true){
             if(ans%2==0 && ans%n==0) return ans;
-            ans++;
+            ans+=n;
         }
     }
 }
