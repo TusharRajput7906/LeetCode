@@ -6,27 +6,17 @@ class Solution {
             arr[i]=str.charAt(i)-'0';
         }
         Arrays.sort(arr);
-        int val=0;
+        int val=0,val1=0;
         int n=str.length();
-        // int m=0;
-        // if(n%2==0){
-        //     j=n/2;
-        //     m=n/2;
-        // }else{
-        //     j=n/2+1;
-        //     m=n/2+1;
-        // }
-        int i=0,k=0;
+        int i=0;
         while(i<n){
-           val=val*10+arr[i];
-           i+=2;
+            if(i%2==0){
+            val=val*10+arr[i];
+            }else{
+                val1=val1*10+arr[i];
+            }
+            i++;
         }
-        int val2=0;
-        int x=1;
-        while(x<n){
-         val2=val2*10+arr[x];
-         x+=2;
-        }
-        return val+val2;
+     return val+val1;   
     }
 }
