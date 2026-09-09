@@ -1,19 +1,19 @@
 class Solution {
-    public int len(int n){
-        int count=0;
-        while(n>0){
-            n/=10;
+    public int len(int n) {
+        int count = 0;
+        while (n > 0) {
+            n /= 10;
             count++;
         }
         return count;
     }
+
     public int splitNum(int num) {
-        // String str = Integer.toString(num);
         int[] arr = new int[len(num)];
-        int l=0;
-        while(num>0){
-            arr[l]=num%10;
-            num/=10;
+        int l = 0;
+        while (num > 0) {
+            arr[l] = num % 10;
+            num /= 10;
             l++;
         }
         Arrays.sort(arr);
