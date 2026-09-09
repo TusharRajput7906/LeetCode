@@ -11,8 +11,6 @@ class Solution {
                 left++;
                 right--;
             }
-        }
-        for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(image[i][j]==0){
                     image[i][j]=1;
@@ -21,6 +19,15 @@ class Solution {
                 }
             }
         }
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<n;j++){
+        //         if(image[i][j]==0){
+        //             image[i][j]=1;
+        //         }else{
+        //             image[i][j]=0;
+        //         }
+        //     }
+        // }
         return image;
     }
 }
