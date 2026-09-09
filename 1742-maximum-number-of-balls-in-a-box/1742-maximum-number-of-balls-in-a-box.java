@@ -10,13 +10,11 @@ class Solution {
 
     public int countBalls(int lowLimit, int highLimit) {
         int[] arr = new int[46];
+        int max = Integer.MIN_VALUE;
         for (int i = lowLimit; i <= highLimit; i++) {
             int val = count(i);
             arr[val] = arr[val] + 1;
-        }
-        int max = Integer.MIN_VALUE;
-        for (int i = 0; i < arr.length; i++) {
-            max = Math.max(max, arr[i]);
+            max = Math.max(max, arr[val]);
         }
         return max;
     }
