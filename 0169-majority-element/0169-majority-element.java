@@ -1,16 +1,15 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n=nums.length;
-        PriorityQueue<Integer> p=new PriorityQueue<>();
-        for(int i=0;i<n;i++){
-            p.add(nums[i]);
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+
+            if (map.get(num) > nums.length / 2) {
+                return num;
+            }
         }
-        int i=0;
-        int m=n/2;
-        while(i<m){
-            p.remove();
-            i++;
-        }
-        return p.remove();
+
+        return -1;
     }
 }
