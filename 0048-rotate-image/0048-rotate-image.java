@@ -7,8 +7,6 @@ class Solution {
                 matrix[i][j]=matrix[j][i];
                 matrix[j][i]=temp;
             }
-        }
-        for(int i=0;i<n;i++){
             int left=0;
             int right=n-1;
             while(left<right){
@@ -19,5 +17,16 @@ class Solution {
                 right--;
             }
         }
+        // for(int i=0;i<n;i++){
+        //     int left=0;
+        //     int right=n-1;
+        //     while(left<right){
+        //         int temp=matrix[i][right];
+        //         matrix[i][right]=matrix[i][left];
+        //         matrix[i][left]=temp;
+        //         left++;
+        //         right--;
+        //     }
+        // }
     }
 }
