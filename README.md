@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TusharRajput7906/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/TusharRajput7906/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 ## Dynamic Programming
