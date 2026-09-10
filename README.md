@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TusharRajput7906/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TusharRajput7906/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/TusharRajput7906/LeetCode/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
