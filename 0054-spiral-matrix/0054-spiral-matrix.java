@@ -7,23 +7,25 @@ class Solution {
             for (int i = scol; i <= ecol; i++) {
                 li.add(matrix[srow][i]);
             }
-            for (int i = srow + 1; i <= erow; i++) {
+            srow++;
+            if (srow > erow) break;
+            for (int i = srow ; i <= erow; i++) {
                 li.add(matrix[i][ecol]);
             }
-            for (int i = ecol - 1; i >= scol; i--) {
-                if (srow == erow)
-                    break;
+            ecol--;
+            if (scol > ecol) break;
+            for (int i = ecol; i >= scol; i--) {
+                // if (srow == erow)
+                //     break;
                 li.add(matrix[erow][i]);
             }
-            for (int i = erow-1; i >= srow + 1; i--) {
-                if (scol == ecol)
-                    break;
+            erow--;
+            for (int i = erow; i >= srow; i--) {
+                // if (scol == ecol)
+                //     break;
                 li.add(matrix[i][scol]);
             }
-            srow++;
-            erow--;
             scol++;
-            ecol--;
         }
         return li;
     }
