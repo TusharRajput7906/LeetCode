@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/TusharRajput7906/LeetCode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/TusharRajput7906/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
