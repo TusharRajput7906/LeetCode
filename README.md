@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/TusharRajput7906/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TusharRajput7906/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TusharRajput7906/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Union-Find
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/TusharRajput7906/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TusharRajput7906/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quicksort
 |  |
