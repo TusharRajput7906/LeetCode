@@ -4,7 +4,7 @@ class Solution {
         while(n>0){
             int rem=n%10;
             if(rem==0) return false;
-            if(rem!=0 && m%rem!=0){
+            if(m%rem!=0){
                 return false;
             }
             n/=10;
