@@ -19,10 +19,10 @@ class Solution {
             answer.add(currentRow);
             middleElement++;
         }
-        List<Integer> list=new ArrayList<>();
-        for(int i=0;i<answer.get(answer.size()-1).size();i++){
-            list.add(answer.get(answer.size()-1).get(i));
-        }
-        return list;
+        // List<Integer> list=new ArrayList<>();
+        // for(int i=0;i<answer.get(answer.size()-1).size();i++){
+        //     list.add(answer.get(answer.size()-1).get(i));
+        // }
+        return answer.get(answer.size()-1);
     }
 }
