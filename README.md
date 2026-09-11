@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/TusharRajput7906/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TusharRajput7906/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TusharRajput7906/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TusharRajput7906/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TusharRajput7906/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TusharRajput7906/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
