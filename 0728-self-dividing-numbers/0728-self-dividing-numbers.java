@@ -3,8 +3,7 @@ class Solution {
         int m=n;
         while(n>0){
             int rem=n%10;
-            if(rem==0) return false;
-            if(m%rem!=0){
+            if(rem==0 || m%rem!=0){
                 return false;
             }
             n/=10;
