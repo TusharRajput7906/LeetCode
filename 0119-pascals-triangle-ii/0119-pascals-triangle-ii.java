@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer>  getRow(int rowIndex) {
+    public List<Integer> getRow(int rowIndex) {
         List<List<Integer>> answer = new ArrayList<>();
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
@@ -23,6 +23,6 @@ class Solution {
         // for(int i=0;i<answer.get(answer.size()-1).size();i++){
         //     list.add(answer.get(answer.size()-1).get(i));
         // }
-        return answer.get(answer.size()-1);
+        return answer.get(answer.size() - 1);
     }
 }
