@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/TusharRajput7906/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/TusharRajput7906/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/TusharRajput7906/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TusharRajput7906/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TusharRajput7906/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/TusharRajput7906/LeetCode/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TusharRajput7906/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TusharRajput7906/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
