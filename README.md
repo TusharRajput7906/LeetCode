@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TusharRajput7906/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/TusharRajput7906/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TusharRajput7906/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/TusharRajput7906/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TusharRajput7906/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/TusharRajput7906/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharRajput7906/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/TusharRajput7906/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharRajput7906/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Timsort
 |  |
