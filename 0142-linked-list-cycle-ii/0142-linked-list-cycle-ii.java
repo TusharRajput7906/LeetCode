@@ -11,11 +11,9 @@
  */
 public class Solution {
     public ListNode idx(ListNode slow, ListNode fast) {
-        // int ans=0;
         while (fast != slow) {
             slow = slow.next;
             fast = fast.next;
-            // ans++;
         }
         return slow;
     }
@@ -25,7 +23,6 @@ public class Solution {
             return null;
         ListNode slow = head;
         ListNode fast = head;
-        // ListNode temp=head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
