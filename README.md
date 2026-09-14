@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/TusharRajput7906/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/TusharRajput7906/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/TusharRajput7906/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TusharRajput7906/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharRajput7906/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/TusharRajput7906/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Breadth-First Search
 |  |
