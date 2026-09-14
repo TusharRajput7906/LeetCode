@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/TusharRajput7906/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/TusharRajput7906/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2578-split-with-minimum-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2578-split-with-minimum-sum) |
+| [2582-pass-the-pillow](https://github.com/TusharRajput7906/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TusharRajput7906/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TusharRajput7906/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2582-pass-the-pillow](https://github.com/TusharRajput7906/LeetCode/tree/master/2582-pass-the-pillow) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
