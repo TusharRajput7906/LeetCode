@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/TusharRajput7906/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TusharRajput7906/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TusharRajput7906/LeetCode/tree/master/0217-contains-duplicate) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TusharRajput7906/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TusharRajput7906/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0344-reverse-string) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TusharRajput7906/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0202-happy-number) |
 ## Geometry
 |  |
