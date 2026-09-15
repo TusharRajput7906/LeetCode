@@ -13,10 +13,10 @@ class Solution {
         ListNode temp=head;
         ListNode curr=null;
         while(temp!=null){
-            ListNode ne=new ListNode(temp.val);
-            ne.next=curr;
-            curr=ne;
-            temp=temp.next;
+            ListNode next=temp.next;;
+            temp.next=curr;
+            curr=temp;
+            temp=next;
         }
         return curr;
 
@@ -30,7 +30,7 @@ class Solution {
             fast=fast.next.next;
         }
         ListNode temp1=reverse(slow);
-        while(temp1!=null && temp!=null){
+        while(temp1!=null){
             if(temp1.val!=temp.val) return false;
             temp1=temp1.next;
             temp=temp.next;
