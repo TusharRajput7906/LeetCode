@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/TusharRajput7906/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [3206-alternating-groups-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TusharRajput7906/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TusharRajput7906/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/TusharRajput7906/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TusharRajput7906/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TusharRajput7906/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3206-alternating-groups-i) |
 ## Breadth-First Search
 |  |
 | ------- |
