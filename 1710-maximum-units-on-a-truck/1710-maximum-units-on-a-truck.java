@@ -13,7 +13,7 @@ class Solution {
             if (truckSize >= arr[i][0]) {
                 pro = arr[i][0] * arr[i][1];
                 truckSize -= arr[i][0];
-            } else if (arr[i][0] > truckSize) {
+            } else{
                 pro = truckSize * arr[i][1];
                 truckSize = 0;
             }
