@@ -7,17 +7,19 @@ class Solution {
         while(j<n){
             if(!(nums[i]<=nums[j])){
                 inc=false;
-            }
-            j++;i++;
-        }
-        i=0;
-        j=1;
-        while(j<n){
-            if(!(nums[i]>=nums[j])){
+            }else if(!(nums[i]>=nums[j])){
                 dec=false;
             }
             j++;i++;
         }
+        // i=0;
+        // j=1;
+        // while(j<n){
+        //     if(!(nums[i]>=nums[j])){
+        //         dec=false;
+        //     }
+        //     j++;i++;
+        // }
         if(inc || dec){
             return true;
         }
