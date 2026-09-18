@@ -4,15 +4,15 @@ class Solution {
         
         for(String s : strs){
             
-            int[] count = new int[26];
+            // int[] count = new int[26];
             
-            for(char c : s.toCharArray()){
-                count[c - 'a']++;
-            }
-            String key=Arrays.toString(count);
-            // char[] arr=s.toCharArray();
-            // Arrays.sort(arr);
-            // String key = Arrays.toString(arr);
+            // for(char c : s.toCharArray()){
+            //     count[c - 'a']++;
+            // }
+            // String key=Arrays.toString(count);
+            char[] arr=s.toCharArray();
+            Arrays.sort(arr);
+            String key = Arrays.toString(arr);
         
             
             if(!map.containsKey(key)){
