@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TusharRajput7906/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TusharRajput7906/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/TusharRajput7906/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/TusharRajput7906/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/TusharRajput7906/LeetCode/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TusharRajput7906/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/TusharRajput7906/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/0258-add-digits) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TusharRajput7906/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TusharRajput7906/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/TusharRajput7906/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/TusharRajput7906/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
