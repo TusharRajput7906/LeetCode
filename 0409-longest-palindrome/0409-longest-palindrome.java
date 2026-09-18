@@ -12,9 +12,6 @@ class Solution {
             }
             len+=(arr[i]/2)*2;
         }
-        if(odd){
-            len+=1;
-        }
-        return len;
+        return odd?len+1:len;
     }
 }
