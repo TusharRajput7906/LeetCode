@@ -5,7 +5,7 @@ class Solution {
         for (String s : strs) {
             char[] arr = s.toCharArray();
             Arrays.sort(arr);
-            String key = Arrays.toString(arr);
+            String key = new String(arr);
 
             if (!map.containsKey(key)) {
                 map.put(key, new ArrayList<>());
