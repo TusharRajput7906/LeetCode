@@ -6,14 +6,19 @@ class NumArray {
         int n = nums.length;
 
         prefix = new int[n + 1];
+        int sum = 0;
 
         for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
+            sum += nums[i];
+            prefix[i] = sum;
         }
     }
 
     public int sumRange(int left, int right) {
-        return prefix[right + 1] - prefix[left];
+        if (left == 0) {
+            return prefix[right];
+        }
+        return prefix[right] - prefix[left - 1];
     }
 }
 
