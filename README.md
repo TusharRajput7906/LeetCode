@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/TusharRajput7906/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/TusharRajput7906/LeetCode/tree/master/0463-island-perimeter) |
 ## Memoization
@@ -556,12 +557,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/TusharRajput7906/LeetCode/tree/master/0463-island-perimeter) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
