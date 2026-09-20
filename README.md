@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TusharRajput7906/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TusharRajput7906/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3498-reverse-degree-of-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/TusharRajput7906/LeetCode/tree/master/2582-pass-the-pillow) |
+| [3498-reverse-degree-of-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
