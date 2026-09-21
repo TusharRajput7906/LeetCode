@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/TusharRajput7906/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/TusharRajput7906/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TusharRajput7906/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TusharRajput7906/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/TusharRajput7906/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/TusharRajput7906/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/TusharRajput7906/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/TusharRajput7906/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/TusharRajput7906/LeetCode/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/TusharRajput7906/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [1710-maximum-units-on-a-truck](https://github.com/TusharRajput7906/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/TusharRajput7906/LeetCode/tree/master/1927-sum-game) |
