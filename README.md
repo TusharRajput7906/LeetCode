@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/TusharRajput7906/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3206-alternating-groups-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TusharRajput7906/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/TusharRajput7906/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TusharRajput7906/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/TusharRajput7906/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/TusharRajput7906/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/TusharRajput7906/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/TusharRajput7906/LeetCode/tree/master/2582-pass-the-pillow) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/TusharRajput7906/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
