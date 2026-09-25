@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TusharRajput7906/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TusharRajput7906/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/TusharRajput7906/LeetCode/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TusharRajput7906/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
@@ -704,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TusharRajput7906/LeetCode/tree/master/0292-nim-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
