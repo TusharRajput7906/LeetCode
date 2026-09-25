@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/TusharRajput7906/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/TusharRajput7906/LeetCode/tree/master/0463-island-perimeter) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
