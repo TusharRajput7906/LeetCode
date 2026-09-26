@@ -9,7 +9,6 @@ class Solution {
         StringBuilder str = new StringBuilder();
         StringBuilder ans = new StringBuilder();
         boolean flag = false;
-        boolean find = false;
         for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
             if (ch == '(') {
