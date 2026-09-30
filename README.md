@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/TusharRajput7906/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TusharRajput7906/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TusharRajput7906/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TusharRajput7906/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/TusharRajput7906/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
@@ -726,5 +728,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TusharRajput7906/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
