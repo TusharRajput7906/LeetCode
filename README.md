@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/TusharRajput7906/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
