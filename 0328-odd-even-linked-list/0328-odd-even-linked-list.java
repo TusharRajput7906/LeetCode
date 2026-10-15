@@ -9,43 +9,20 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode temp=head;
-        ListNode prev=null;
-        while(temp!=null){
-            ListNode next=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=next;
-        }
-        return prev;
-    }
     public ListNode oddEvenList(ListNode head) {
-        if(head==null || head.next==null) return head;
-        ListNode even=null;
-        ListNode odd=null;
-        ListNode temp=head;
-        int i=0;
-        while(temp!=null){
-            // int val=temp.val;
-            ListNode next=temp.next;
-            if(i%2!=0){
-                temp.next=even;
-                even=temp;
-            }else{
-                temp.next=odd;
-                odd=temp;
-            }
-            temp=next;
-            i++;
+        if (head == null || head.next == null) {
+            return head;
         }
-        even=reverse(even);
-        odd=reverse(odd);
-        ListNode odd1=odd;
-        while(odd1.next!=null){
-            odd1=odd1.next;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode curr = even;
+        while (even != null && even.next != null) {
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
         }
-        odd1.next=even;
-        return odd;
+        odd.next = curr;
+        return head;
     }
 }
