@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TusharRajput7906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
