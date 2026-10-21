@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TusharRajput7906/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TusharRajput7906/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/TusharRajput7906/LeetCode/tree/master/0661-image-smoother) |
+| [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/TusharRajput7906/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/TusharRajput7906/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TusharRajput7906/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/TusharRajput7906/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/TusharRajput7906/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/TusharRajput7906/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TusharRajput7906/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/TusharRajput7906/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -785,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TusharRajput7906/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
