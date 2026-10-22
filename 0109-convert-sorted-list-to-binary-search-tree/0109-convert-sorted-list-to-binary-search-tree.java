@@ -24,30 +24,31 @@
  * }
  */
 class Solution {
-     public TreeNode createTree(int[] arr, int left, int right) {
-        if (left > right) {
+    public TreeNode sorted(int left,int right,int[] arr){
+        if(left>right){
             return null;
         }
-        int mid = left + (right - left) / 2;
-        TreeNode root = new TreeNode(arr[mid]);
-        root.left = createTree(arr, left, mid - 1);
-        root.right = createTree(arr, mid + 1, right);
+        int mid=left+(right-left)/2;
+        TreeNode root=new TreeNode(arr[mid]);
+        root.left=sorted(left,mid-1,arr);
+        root.right=sorted(mid+1,right,arr);
         return root;
     }
     public TreeNode sortedListToBST(ListNode head) {
-        int len=0;
         ListNode temp=head;
+        int length=0;
         while(temp!=null){
+            length++;
             temp=temp.next;
-            len++;
         }
-        int[] arr=new int[len];
-        ListNode temp1=head;
+        int[] arr=new int[length];
+        temp=head;
         int i=0;
-        while(temp1!=null){
-            arr[i++]=temp1.val;
-            temp1=temp1.next;
+        while(temp!=null){
+            arr[i++]=temp.val;
+            temp=temp.next;
         }
-        return createTree(arr,0,len-1);
+        return sorted(0,arr.length-1,arr);
     }
 }
+
