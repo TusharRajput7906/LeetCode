@@ -1,5 +1,5 @@
 class Solution {
-    int ans;
+    int ans=0;
     public boolean visited(int[][] grid){
        int n=grid.length;
         int m=grid[0].length;
@@ -31,7 +31,7 @@ class Solution {
         grid[r][c]=0;
     }
     public int uniquePathsIII(int[][] grid) {
-        ans =0;
+        // ans =0;
         int n=grid.length;
         int m=grid[0].length;
         for(int i=0;i<n;i++){
