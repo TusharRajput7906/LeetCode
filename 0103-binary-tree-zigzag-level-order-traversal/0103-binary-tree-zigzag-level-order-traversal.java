@@ -24,19 +24,14 @@ class Solution {
             li.add(new ArrayList<>());
         }
         li.get(level).add(root.val);
-        // if (level % 2 == 0) {
-        //     zigzag(root.right, level + 1);
-        //     zigzag(root.left, level + 1);
-        // } else {
-            zigzag(root.left, level + 1);
-            zigzag(root.right, level + 1);
-        // }
+        zigzag(root.left, level + 1);
+        zigzag(root.right, level + 1);
     }
 
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        zigzag(root,0);
-        for(int i=0;i<li.size();i++){
-            if(i%2!=0){
+        zigzag(root, 0);
+        for (int i = 0; i < li.size(); i++) {
+            if (i % 2 != 0) {
                 Collections.reverse(li.get(i));
             }
         }
