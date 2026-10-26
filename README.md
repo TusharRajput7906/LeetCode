@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/TusharRajput7906/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TusharRajput7906/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/TusharRajput7906/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/TusharRajput7906/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/TusharRajput7906/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TusharRajput7906/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TusharRajput7906/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TusharRajput7906/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
