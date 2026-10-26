@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/TusharRajput7906/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/TusharRajput7906/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
+| [0980-unique-paths-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/TusharRajput7906/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/TusharRajput7906/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TusharRajput7906/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/TusharRajput7906/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/TusharRajput7906/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/TusharRajput7906/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -813,4 +817,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/TusharRajput7906/LeetCode/tree/master/0705-design-hashset) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
