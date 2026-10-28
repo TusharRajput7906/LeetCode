@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3979-maximum-valid-pair-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/TusharRajput7906/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TusharRajput7906/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3979-maximum-valid-pair-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Simulation
 |  |
 | ------- |
