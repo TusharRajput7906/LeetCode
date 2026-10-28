@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharRajput7906/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/TusharRajput7906/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/TusharRajput7906/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TusharRajput7906/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/TusharRajput7906/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/TusharRajput7906/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/TusharRajput7906/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/TusharRajput7906/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TusharRajput7906/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TusharRajput7906/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/TusharRajput7906/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TusharRajput7906/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TusharRajput7906/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharRajput7906/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1590-make-sum-divisible-by-p](https://github.com/TusharRajput7906/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TusharRajput7906/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/TusharRajput7906/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/3904-smallest-stable-index-ii) |
