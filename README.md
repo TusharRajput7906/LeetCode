@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/TusharRajput7906/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TusharRajput7906/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TusharRajput7906/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TusharRajput7906/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/TusharRajput7906/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/TusharRajput7906/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TusharRajput7906/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/TusharRajput7906/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TusharRajput7906/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/TusharRajput7906/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/TusharRajput7906/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/TusharRajput7906/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharRajput7906/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TusharRajput7906/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Database
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TusharRajput7906/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TusharRajput7906/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/TusharRajput7906/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/TusharRajput7906/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
