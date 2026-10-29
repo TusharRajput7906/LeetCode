@@ -8,13 +8,16 @@ class Solution {
         int i = 0;
         while (sandwiches.length != i) {
             int val = sandwiches[i];
-            if (q.contains(val) && val != q.peek()) {
-                q.add(q.remove());
-            } else if (q.contains(val) && val == q.peek()) {
-                i++;
-                q.remove();
-            } else if (!q.contains(val)) {
+
+            if (!q.contains(val)) {
                 return q.size();
+            }
+
+            if (q.peek() == val) {
+                q.remove();
+                i++;
+            } else {
+                q.add(q.remove());
             }
         }
         return 0;
