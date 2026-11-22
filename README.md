@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TusharRajput7906/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/TusharRajput7906/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/TusharRajput7906/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TusharRajput7906/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/TusharRajput7906/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/TusharRajput7906/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/TusharRajput7906/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/TusharRajput7906/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/TusharRajput7906/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/TusharRajput7906/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/TusharRajput7906/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/TusharRajput7906/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/TusharRajput7906/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/TusharRajput7906/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/TusharRajput7906/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TusharRajput7906/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/TusharRajput7906/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/TusharRajput7906/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/TusharRajput7906/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TusharRajput7906/LeetCode/tree/master/0844-backspace-string-compare) |
